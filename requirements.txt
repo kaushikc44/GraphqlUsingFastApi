@@ -1,0 +1,4 @@
+starlette==0.16.0
+fastapi
+graphene
+collections
